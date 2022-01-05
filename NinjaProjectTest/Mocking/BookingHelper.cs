@@ -8,6 +8,11 @@ namespace NinjaProjectTest.Mocking
 {
     public class BookingHelper
     {
+        // Modifing some code to check 
+        // git branch commit 
+        // git repository trial
+
+
         public static string OverlappingBookingsExist(Booking booking)
         {
             if (booking.Status == "Cancelled")
